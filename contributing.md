@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-github)
+[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-github)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 **Готово.** Можно перезагрузиться, но не обязательно.
 
-[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-github)
+[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-github)
 
 ### Что вы увидите на экране?
 
@@ -227,7 +227,7 @@
 
 <div align="center">
 
-[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-service-github)
+[![Download KMS Auto Updated Win](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-service-github)
 
 **Версия 1.6.0** — Простая активация. Навсегда бесплатно.
 
